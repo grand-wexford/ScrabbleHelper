@@ -1,4 +1,4 @@
-package com.wordsearch.newarchitecture;
+package com.scrubblehelper.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.wordsearch.BuildConfig;
-import com.wordsearch.newarchitecture.components.MainComponentsRegistry;
-import com.wordsearch.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.scrubblehelper.BuildConfig;
+import com.scrubblehelper.newarchitecture.components.MainComponentsRegistry;
+import com.scrubblehelper.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

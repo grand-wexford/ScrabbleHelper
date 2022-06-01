@@ -1,4 +1,4 @@
-package com.wordsearch.newarchitecture.components;
+package com.scrubblehelper.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;
